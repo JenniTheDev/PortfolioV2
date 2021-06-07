@@ -57,7 +57,7 @@ yandex_site_verification:
 
 # Social Sharing
 twitter:
-  username: &twitter
+  username: &twitter "JenniTheDev"
 facebook:
   username:
   app_id:
@@ -80,7 +80,7 @@ analytics:
 author:
   name: "Jenni"
   avatar: "jenniFace.png"
-  bio: "Your biography for the left-hand sidebar"
+  bio: "CSUF Graduate, Software Developer and Gamer looking to make awesome games with awesome people"
   location: "Southern Calif"
   employer:
   pubmed:
@@ -100,7 +100,7 @@ author:
   instagram:
   impactstory: #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm:
-  linkedin: "https://www.linkedin.com/in/jennithedev/"
+  linkedin: "jennithedev"
   orcid:
   pinterest:
   soundcloud:
@@ -111,7 +111,7 @@ author:
   vine:
   weibo:
   xing:
-  youtube: "jennithedev"
+  youtube: "UCqBmlkPIlzO3pdQWht6fHyg"
   wikipedia:
 
 # Reading Files
@@ -179,7 +179,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false # I changed this from true
     permalink: /:collection/:path/
 
 # Defaults
