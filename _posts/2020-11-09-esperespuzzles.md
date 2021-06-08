@@ -42,8 +42,6 @@ Puzzle Four uses the same key logic, but with an addition. I made those keys hav
 
 This gives us our six puzzle doors. As we are in the prototyping stage, I know that I will need to go back and refactor a lot of my scripts. The entire puzzle system should be communicating using the event manager. I have some scripts that I wrote and never used. I'm also sure there has to be a more efficient way to handle having the player flip switches in an order. It was very enjoyable to figure out how to program these puzzles, and I hope that they are fun for our future players. 
 
-
-
 The GitHub for this project can be found [here](https://github.com/jenniferafelton/EsperesJourney).
 
 
