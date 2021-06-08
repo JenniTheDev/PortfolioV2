@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Main"
+title: "Hi!"
 excerpt: "Main Page"
 author_profile: true
 redirect_from:
@@ -17,9 +17,9 @@ I'm a really great programmer and fun to work with. You should hire me. Take a l
 # A little about me
 Once upon a time, I was an apartment manager. Every time I got a new job I had to move. I eventually got tired of moving and decided to spend time with my kids. After driving them enough miles to go to the moon and back, I decided to go back to school. I figured I would just get my A.A to be a good example to them. I didn't just stop at one A.A, I got an A.S and then my B.S in Computer Science as well. I made my first game in my Intro To Computer Programming class and have been enjoying programming ever since. 
 
-While getting my degree at California State University, Fullerton, I got to work with a lot of other students. I was the person everyone went to when they needed to talk over a coding problem or needed help with github. I also joined the Video Game Development Club and the Women in Computer Science and Engineering. Showcasing the game my team made, Espere's Journey, was one of the highlights of my time at CSUF. Outside of school, I work on my coding skills by working with other developers to make things and review our code. 
+While getting my degree at California State University, Fullerton, I got to work with a lot of other students. I was the person everyone went to when they needed to talk over a coding problem or needed help with github. I also joined the Video Game Development Club and the Women in Computer Science and Engineering. Showcasing the game my team made, Espere's Journey, was one of the highlights of my time at CSUF. Outside of school, I work on my coding skills by collaborating with other developers to create projects and review our code. 
 
-I'd love to be a part of your team. [Contact me](http://jennithe.dev/contact) so we can get things started. 
+I'd love to be a part of your team. [Contact me](mailto:jenni@jennithe.dev) so we can get things started. 
 <br><br>
 
 <!-- # Why Software Development?
