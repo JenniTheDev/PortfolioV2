@@ -8,8 +8,6 @@ tags:
  
 ---
 
-#Codess
-
 Codess is a community for female coders that Microsoft created to help close the gender gap in computer programing. I was invited to attend Microsoft’s Codess Event at their beautiful Playa Vista campus near Los Angeles. I was so excited to attend the event that I hardly slept the night before. Most of my classes have had only one or two other females in them, so it was really cool to be going to an event and not be in the minority. 
 
 The event was made up of about 100 female computer science and engineering students from colleges all over Southern California. At first everyone was a little nervous to talk to each other, but soon the introductions were flying. We were treated to three different topics: a “Be the Change” panel, Demystifying the Tech Interview, and a Keynote speech given by Charlotte Yarkoni, Corporate Vice President of Commerce and EcoSystems. In Between topics there was time for healthy snacks and networking with attendees and the Microsoft employees. 
