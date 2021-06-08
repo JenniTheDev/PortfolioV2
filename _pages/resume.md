@@ -9,18 +9,19 @@ redirect_from:
 
 {% include base_path %}
 [Available as a PDF](http://jennithe.dev/files/JenniFeltonResume.pdf)
+<br>
 
 # Education
-<br>
+
 ### **B.S. in Computer Science, California State University Fullerton, 2021**
-<p> 3.0 cumulative GPA</p>  
-<p>John H. Grace Scholarship Recipient </p> 
+  <p>3.0 cumulative GPA</p>  
+  <p>John H. Grace Scholarship Recipient </p> 
 ### **A.S. in Math and Science, Riverside City College, 2017**
- - Concentration in Geology, Computer Science
- - Dean's List
+  <p>Concentration in Geology, Computer Science</p>
+  <p>Dean's List</p>
 ### **A.A. in Humanities Philosophy and Arts, Riverside City College, 2017**
-<p> Concentration in Education, Psychology  
- Dean's List </p>
+  <p>Concentration in Education, Psychology  
+  Dean's List </p>  
 ### **Certificate in Database Management, Riverside City College, 2017**
 <br><br>
 
