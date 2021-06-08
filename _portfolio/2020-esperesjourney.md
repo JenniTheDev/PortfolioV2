@@ -10,6 +10,8 @@ A 2D adventure game for the Cal State Fullerton Video Game Development Club. Dev
 
 [The latest playable releases can be found here.](https://digx7.itch.io/esperes-journey)
 
+[To the project Github!](https://github.com/JenniTheDev/EsperesJourney)
+
 ## Table of Contents: <br> 
 
 * [Introduction](#Introduction)
