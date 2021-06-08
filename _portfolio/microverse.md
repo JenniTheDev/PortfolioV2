@@ -4,7 +4,6 @@ excerpt: "A mobile app with microgames<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-# Microverse <br>
 
 Microverse is a mobile app with short microgames
 <br><br>
@@ -23,6 +22,8 @@ Microverse is a mobile app with short microgames
 Microverse is a mobile app with short microgames. It was created for the Spring 2021 Software Engineering class at California State University, Fullerton. The objective is to design and deliver a product with a randomly selected group of students, using the tools, methods and technologies learned in class. The project is broken up into four iterations of three weeks each. 
 
 Microverse was created using Unity Version 2020.2.3f1
+
+[Microverse Github](https://github.com/JenniTheDev/Microverse)
 
 <br><br>
 
