@@ -1,11 +1,11 @@
 ---
 permalink: /
-title: "Main()"
-excerpt: "Main()"
+title: "Main"
+excerpt: "Main Page"
 author_profile: true
 redirect_from:
-  - /about/
-  - /about.html
+  - /main/
+  - /main.html
 ---
 
 This website is under construction for the day.
