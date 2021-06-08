@@ -12,16 +12,16 @@ redirect_from:
 
 # Education
 
-**B.S. in Computer Science, California State University Fullerton, 2021**
-- 3.0 cumulative GPA
-- John H. Grace Scholarship Recipient
-**A.S. in Math and Science, Riverside City College, 2017**
-- Concentration in Geology, Computer Science
-- Dean's List
-**A.A. in Humanities Philosophy and Arts, Riverside City College, 2017**
-- Concentration in Education, Psychology
-- Dean's List
-**Certificate in Database Management, Riverside City College, 2017**
+### **B.S. in Computer Science, California State University Fullerton, 2021**
+##### - 3.0 cumulative GPA  
+##### - John H. Grace Scholarship Recipient  
+### **A.S. in Math and Science, Riverside City College, 2017**
+##### - Concentration in Geology, Computer Science
+##### - Dean's List
+### **A.A. in Humanities Philosophy and Arts, Riverside City College, 2017**
+##### - Concentration in Education, Psychology
+##### - Dean's List
+### **Certificate in Database Management, Riverside City College, 2017**
 
 
 # School Organizations
