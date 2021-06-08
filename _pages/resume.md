@@ -12,34 +12,31 @@ redirect_from:
 
 # Education
 
-- B.S. in Computer Science, California State University Fullerton, 2021
-- A.S. in Math and Science, Riverside City College, 2017
-- A.A. in Humanities Philosophy and Arts, Riverside City College, 2017
-- Certificate in Database Management, Riverside City College, 2017
+**B.S. in Computer Science, California State University Fullerton, 2021**
 
-# Work experience
+- 3.0 cumulative GPA
+- John H. Grace Scholarship Recipient
+  **A.S. in Math and Science, Riverside City College, 2017**
+- Concentration in Geology, Computer Science
+- Dean's List
+  **A.A. in Humanities Philosophy and Arts, Riverside City College, 2017**
+- Concentration in Education, Psychology
+- Dean's List
+  **Certificate in Database Management, Riverside City College, 2017**
 
-- **Content Integrator / Content Operations Technician**
+# School Organizations
 
-  - ProUnlimited contractor for Thales
-  - _March 2020- Present_
-    - Performed QA following multiple testing procedures to verify software is correctly integrated onto airline entertainment systems
-    - Maintained detailed documentation of Test Cases
-    - Troubleshooted GUI problems and database errors
-    - Collaborated with supervisors and coworkers to streamline the testing process while maintaining quality and accuracy
+**Video Game Development Club**
 
-- **Software Developer**
+- Lead Programmer of Espere's Journey
+- Managed Github repository, merge conflicts and pull requests
+- Assisted team with coding questions and bug fixes
+- Assigned all coding related tasks and track progress
 
-  - Inland Empire Software Development
-  - July 2019- present
-    - Presented multiple talks and QA sessions on the setup and creation of games using Unity with emphasis on clean architecture & modular design
-    - Collaborated with teams at hackathon events and assisted with technical problems
-
-- **Stay At Home Parent and Student**
-  - July 2010 - July 2019
-    - Managed multiple schedules and obligations efficiently
-    - Participated in non-profits and volunteer work
-    -
+- **Women in Computer Science and Engineering**
+  - Communicated with CSUF staff to increase the number of women in the Computer Science and Engineering departments
+  - Encouraged students to consider Software Engineering as a career
+  - Participated in workshops and diversity events
 
 # Skills
 
@@ -49,21 +46,63 @@ redirect_from:
 - Led teams of students on various projects from design to completion
 - Can create websites using MySQL, Firebase, React, HTML, CSS and Apache
 - Amazing at technical documentation and Software Requirement Specifications
--
 
-# School Organizations
+# Work experience
 
-- **Video Game Development Club**
+- **Content Integrator / Content Operations Technician**
 
-  - Lead Programmer of Espere's Journey
-  - Managed Github repository, merge conflicts and pull requests
-  - Assisted team with coding questions and bug fixes
-  - Assigned all coding related tasks and track progress
+  - ProUnlimited contractor for Thales
+  - _March 2020 - Present_
+    - Performed QA following multiple testing procedures to verify software is correctly integrated onto airline entertainment systems
+    - Maintained detailed documentation of Test Cases
+    - Troubleshooted GUI problems and database errors
+    - Collaborated with supervisors and coworkers to streamline the testing process while maintaining quality and accuracy
 
-- **Women in Computer Science and Engineering**
-  - Communicated with CSUF staff to increase the number of women in the Computer Science and Engineering departments
-  - Encouraged students to consider Software Engineering as a career
-  - Participated in workshops and diversity events
+- **Software Developer**
+
+  - Inland Empire Software Development
+  - July 2019 - present
+    - Presented multiple talks and QA sessions on the setup and creation of games using Unity with emphasis on clean architecture & modular design
+    - Collaborated with teams at hackathon events and assisted with technical problems
+
+- **Stay At Home Parent and Student**
+
+  - July 2010 - July 2019
+    - Managed multiple schedules and obligations efficiently
+    - Participated in non-profits and volunteer work
+    - Raised good humans
+
+- **Apartment Manager**
+
+  - Mercy House Living Centers
+  - Jan 2009 - July 2010
+    - Provided excellent customer service to both residents and community organizations
+    - Maintained low income housing documentation that was reported to federal agencies
+    - Coordinated resident referrals with outside organizations
+
+- **Apartment Manager**
+
+  - Private Owner
+  - Feb 2007 - Jan 2009
+    - Coordinated contractors for repairs of fire damaged units
+    - Supervised building re-piping project
+    - Maintained all rent collection and repair records
+
+- **Property Manager**
+
+  - RPK Development Corp
+  - Aug 2005 - Feb 2007
+    - Promoted from Assistant Manager to Manager
+    - Led a team of Assistants and Maintenance personnel in daily operations
+    - Maintained Yardi Database system ensuring rents were collected accurately
+    - Assisted company with tax credit certification and property purchasing processes
+
+- **Community Manager**
+  - Riverside Housing Development Corp
+  - Nov 2002 - Aug 2005
+    - Supervised vendors and maintenance employees
+    - Served legal notices
+    - Maintained all legal documentation
 
 # Service and leadership
 
