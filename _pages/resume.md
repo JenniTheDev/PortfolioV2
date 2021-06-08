@@ -17,27 +17,27 @@ redirect_from:
 &nbsp;&nbsp;&nbsp;&nbsp; 3.0 cumulative GPA  
 &nbsp;&nbsp;&nbsp;&nbsp; John H. Grace Scholarship Recipient 
 ### **A.S. in Math and Science, Riverside City College, 2017**
-  <p>Concentration in Geology, Computer Science</p>
-  <p>Dean's List</p>
+&nbsp;&nbsp;&nbsp;&nbsp; Concentration in Geology, Computer Science
+&nbsp;&nbsp;&nbsp;&nbsp; Dean's List
 ### **A.A. in Humanities Philosophy and Arts, Riverside City College, 2017**
-  <p>Concentration in Education, Psychology  
-  Dean's List </p>  
+&nbsp;&nbsp;&nbsp;&nbsp; Concentration in Education, Psychology  
+&nbsp;&nbsp;&nbsp;&nbsp; Dean's List  
 ### **Certificate in Database Management, Riverside City College, 2017**
 <br><br>
 
 # School Organizations
 
 **Video Game Development Club**
-- Lead Programmer of Espere's Journey
-- Managed Github repository, merge conflicts and pull requests
-- Assisted team with coding questions and bug fixes
-- Assigned all coding related tasks and track progress
+&nbsp;&nbsp;&nbsp;&nbsp;Lead Programmer of Espere's Journey
+&nbsp;&nbsp;&nbsp;&nbsp;Managed Github repository, merge conflicts and pull requests
+&nbsp;&nbsp;&nbsp;&nbsp;Assisted team with coding questions and bug fixes
+&nbsp;&nbsp;&nbsp;&nbsp;Assigned all coding related tasks and track progress
 
-- **Women in Computer Science and Engineering**
-  - Communicated with CSUF staff to increase the number of women in the Computer Science and Engineering departments
-  - Encouraged students to consider Software Engineering as a career
-  - Participated in workshops and diversity events
-
+**Women in Computer Science and Engineering**
+&nbsp;&nbsp;&nbsp;&nbsp; Communicated with CSUF staff to increase the number of women in the Computer Science and Engineering departments
+&nbsp;&nbsp;&nbsp;&nbsp; Encouraged students to consider Software Engineering as a career
+&nbsp;&nbsp;&nbsp;&nbsp; Participated in workshops and diversity events
+<br><br>
 
 # Skills
 
