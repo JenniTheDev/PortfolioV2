@@ -1,6 +1,6 @@
 ---
 title: "Microverse"
-excerpt: "A mobile app with microgames<br/><img src='/images/500x300.png'>"
+excerpt: "A mobile app with microgames<br/><img src='https://media.giphy.com/media/GXCNFdRoJnxkoWsSSF/giphy.gif'>"
 collection: portfolio
 ---
 
