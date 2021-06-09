@@ -15,5 +15,5 @@ main:
   - title: "Resume"
     url: /resume/
 
-  # - title: "Contact Me"
-  #   url: /contact/
+  - title: "About Me"
+    url: /about/

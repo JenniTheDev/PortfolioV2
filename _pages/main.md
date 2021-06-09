@@ -4,8 +4,10 @@ title: "Hi!"
 excerpt: "Main Page"
 author_profile: true
 redirect_from:
-  - /main/
-  - /main.html
+#  - /main/
+#  - /main.html
+- /about/
+- /about.html
 ---
 
 This website is under construction for the day.
