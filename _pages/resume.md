@@ -48,8 +48,10 @@ redirect_from:
 - Has a solid foundation of Algorithms, Data Structures and Object Oriented Programming
 - Proficient in C#, C++, Python, Java and Assembly
 - Led teams of students on various projects from design to completion
-- Can create websites using MySQL, Firebase, React, HTML, CSS and Apache
+- Experience with Blender, Photoshop, and Adobe Premiere 
+- Created websites using MySQL, Firebase, React, HTML, CSS and Apache
 - Amazing at technical documentation and Software Requirement Specifications
+- Familiar with several agile methodologies, primarily Scrum and Kanban
 <br><br>
 
 # Work experience
