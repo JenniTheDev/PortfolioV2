@@ -1,7 +1,7 @@
 ---
 title: 'Tuffy Track...With No Track'
 date: 2020-05-01
-permalink: /posts/2012/08/tuffytrack/
+permalink: /posts/2020/05/tuffytrack/
 tags:
   - tuffy
   - godot
