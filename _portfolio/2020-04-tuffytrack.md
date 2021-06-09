@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 
-# TuffyTrack <br>
+
   
 TuffyTrack is a game where you try to collect financial aid while avoiding your professors. TuffyTrack was built using the GoDot Game Engine.
 
@@ -46,16 +46,12 @@ Project Design Document following Unity Create with Code: [Tuffy Track Design Do
 [Full product documentation](https://jenniferafelton.github.io/pdf/254.JFelton.Project_Documentation.pdf)
 
  <br><br>
- ## License <a name="License"></a><br>
+## License <a name="License"></a><br>
 - GoDot software is used under the GoDot License <br>
     <a href="https://godotengine.org/license">GoDot Software License</a><br>
 - TuffyTrack is Licensed under a MIT License <br>
     [MIT license](LICENSE)
     
-<br><br>
-## Contributing
-Want to help make things better? [Read here first!](CONTRIBUTING.md)
-
 <br><br>
 ## Acknowledgements <a name="Ack"></a><br>
 - Walking Professors are based on "Gilbert" by Binngi from [OpenGameArt.Org](https://opengameart.org/content/gilbert-cartoon-character) and used under a Creative Commons license 
