@@ -1,7 +1,7 @@
 ---
 permalink: /about/
-title: "About Me:"
-excerpt: "About Me"
+title: "About Me"
+# excerpt: "About Me"
 author_profile: true
 redirect_from:
 #  - /main/
@@ -9,9 +9,9 @@ redirect_from:
 - /about
 - /about.html
 ---
-
+<br> <br>
 # TLDR: 
-I'm a really great programmer and fun to work with. You should hire me. Take a look at my [projects](https://jennithe.dev/projects/), [my blog](https://jennithe.dev/blog/) and [my resume](https://jennithe.dev/resume/). 
+I'm a really great programmer and fun to work with. You should hire me. Take a look at [my projects](https://jennithe.dev/projects/), [my blog](https://jennithe.dev/blog/) and [my resume](https://jennithe.dev/resume/). 
 <br><br>
 
 # A little about me
