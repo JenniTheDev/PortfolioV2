@@ -8,8 +8,6 @@ tags:
   - gamedev
 ---
 
-### My first attempt at making a more complicated game from scratch.
-
 In my Open Source class we were given the task to create something using Open Source software. The only requirements were to use existing open source software, write some original code, and to use Version Control Software. I knew right from the start that I wanted to make a game.
 
 I debated between using two engines, Godot or LÖVE. I ended up choosing Godot since I had been learning how to use Unity and thought it would be similar. It also allowed more flexibility in what type of game I could make. LÖVE is only 2D. I also decided I wanted to make it school themed since it was a school project. I settled on Tuffy Tack because the school mascot is Tuffy the Titan, and I thought it would be cute to have him drive around.
