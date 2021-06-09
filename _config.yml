@@ -191,7 +191,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false # I changed this to false
       comments: true
       share: true
       related: true
