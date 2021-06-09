@@ -28,4 +28,4 @@ After that, I set up some coins to collect and the enemies. I didn’t originall
 At that point I had a working game. The player could walk around the zone, collect coins, and die when they hit an enemy. Since the deadline for the project was coming soon, I felt I had two options. I could either try to add more enemies, coins, or a kart and track to the game; or I could polish it up with some environmental assets and sound. I decided that I wanted the game to feel finished when I presented it to the class, so I added in the environmental trees, the soundtrack, and menus. When these were done, I wrote up the documentation and submitted my project.
 
 At first I found Godot’s setup a little confusing compared to Unity’s, but I picked it up quickly. This project gave me the opportunity to learn how to use Godot and what steps it takes to make a game. You can find the GitHub for my project [here](https://github.com/JenniTheDev/TuffyTrack). It includes the initial plan and the documentation.
-  
+ 
