@@ -6,8 +6,8 @@ author_profile: true
 redirect_from:
 #  - /main/
 #  - /main.html
-- /about/
-- /about.html
+- "/about/"
+- "/about.html"
 ---
 
 # TLDR: 
