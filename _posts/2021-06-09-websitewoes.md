@@ -18,7 +18,7 @@ That was not correct at all. I started trying to narrow down what could be causi
 
 ![](https://jennithe.dev/images/WebsiteWoes1.jpg)
 
-![](https://jennithe.dev/images/WebsiteWoes2.jpg)
+
 
 The correctly formatted posts were all /posts/year/month/title. The incorrectly formatted one was /year-month-date-title. I then started trying to figure out why that one file was being formatted differently. I rubber duck'd with a friend to see if I was just tired and missing something. It's always helpful to get another set of eyes on a problem. After I was about to call it quits for the day I realized something. The problem post had an apostrophe in the title. None of my other posts had one. So to test my theory, I removed the apostrophe. It worked perfectly. I figured that since the title was enclosed in apostrophe's, that was the cause of my formatting problem.
 
