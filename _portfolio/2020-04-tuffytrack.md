@@ -1,6 +1,6 @@
 ---
 title: "Tuffy Track"
-excerpt: "A 3D game made with Godot<br/><img src='https://media.giphy.com/media/niw2jD7iFDR8WAI8dB/giphy.gif'>"
+excerpt: "A 3D game where you try to collect financial aid<br/><img src='https://media.giphy.com/media/niw2jD7iFDR8WAI8dB/giphy.gif'>"
 collection: portfolio
 ---
 
