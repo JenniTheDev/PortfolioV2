@@ -34,7 +34,7 @@ redirect_from:
 - Lead Programmer of Espere's Journey
 - Managed Github repository, merge conflicts and pull requests
 - Assisted team with coding questions and bug fixes
-- Assigned all coding related tasks and track progress
+- Managed Kanban board and Git version control  
 
 **Women in Computer Science and Engineering**
 - Communicated with CSUF staff to increase the number of women in the Computer Science and Engineering departments
