@@ -16,7 +16,7 @@ I'm somewhat convinced that anyone who makes webpages that work and look good is
 
 That was not correct at all. I started trying to narrow down what could be causing the problem. All my blog posts were formatted the same using markdown. All the titles and headers were all the same format. The file names are all formatted the same. I tried deleting the file and creating a new one with just the header to see if it was something leftover from when I copied the blog post over. There was still no change. I tried making a test blog page to see if it had anything to do with the number of blog posts showing on the page, but the test posts worked perfectly. Then I noticed something in the address bar. 
 
-![](https://jennithe.dev/images/WebsiteWoes1.jpg)
+![](https://jennithe.dev/images/WebsiteWoes1.JPG)
 
 
 
