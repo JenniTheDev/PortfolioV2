@@ -1,6 +1,6 @@
 ---
 title: "Pong Version Two"
-excerpt: "Pong is part of a multi part talk I gave for Inland Empire Software Development to teach how to create games in Unity. This project was used in Part 2. <br/><img src='https://media.giphy.com/media/rqZEANWU5nesnvJ84c/giphy.gif'>"
+excerpt: "Pong with clean architecture and modular design><img src='https://media.giphy.com/media/rqZEANWU5nesnvJ84c/giphy.gif'>"
 collection: portfolio
 ---
 
