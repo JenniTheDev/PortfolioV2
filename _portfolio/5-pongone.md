@@ -6,7 +6,7 @@ collection: portfolio
 
 Pong is part of a multi part talk I gave for Inland Empire Software Development to teach how to create games in Unity. This project was used in Part One. 
  
- [Part Two can be found here](https://github.com/JenniTheDev/Pong_IESD)
+[Part Two can be found here](https://github.com/JenniTheDev/Pong_IESD)
  
  ## Table Of Contents<br>
 * [Introduction](#Introduction)
