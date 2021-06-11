@@ -1,6 +1,6 @@
 ---
 title: "Pong Version Two"
-excerpt: "Pong with clean architecture and modular design><img src='https://media.giphy.com/media/rqZEANWU5nesnvJ84c/giphy.gif'>"
+excerpt: "Pong with clean architecture and modular design<br/><img src='https://media.giphy.com/media/rqZEANWU5nesnvJ84c/giphy.gif'>"
 collection: portfolio
 ---
 
