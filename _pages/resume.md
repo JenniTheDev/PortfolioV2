@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Available as a PDF](http://jennithe.dev/files/JenniFeltonResume.pdf)
+[Also available as a PDF](http://jennithe.dev/files/JenniFeltonResume.pdf)
 <br><br>
 
 # Education
