@@ -16,7 +16,8 @@ Plus there were other problems. If an enemy stood on a trigger, it would cause t
 After talking it over with the designer and some other developers, I decided to make a class, Door. Then my different types of doors can inherit from the Door class. The Door class handles opening the door and checking the order of triggers if needed. That way I can use it on doors that just need to open, or need triggers to open, or need a specific set of triggers in order to open. It also removes the need for managing keys unnecessarily. 
 
 Code is simplified for space, but you can [view the full code here](https://github.com/JenniTheDev/EsperesJourney/blob/dev/Assets/Scripts/Door.cs).
-```C#
+
+```
 protected virtual void OpenDoor(){
   // To be used by each door
 }
