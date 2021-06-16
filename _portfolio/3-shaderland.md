@@ -7,6 +7,8 @@ collection: portfolio
 
 A small scene to demonstrate shaders and day/night cycles
 
+[Project Github](https://github.com/JenniTheDev/ShadersAndRaytracing)
+
 ## Table of Contents: <br> 
 
 * [Introduction](#Introduction)
