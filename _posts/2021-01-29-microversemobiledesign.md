@@ -14,7 +14,7 @@ We knew we wanted to make a few simple and casual game games like Jackbox or Mar
 
 We ran into quite a few roadblocks though. One of the more common ones had to do with scaling.
 
-The majority of the team was only testing their games by playing it on their computer. This lead to some really interesting UI issues. We had tiny fonts, buttons cut off the screen, and games that just didn't look right. All of our games had issues, which we didn't notice until we started testing off our phones using Unity Remote. 
+The majority of the team was only testing their games by playing it on their computer. This led to some really interesting UI issues. We had tiny fonts, buttons cut off the screen, and games that just didn't look right. All of our games had major adjustments to make, which we didn't notice until we started testing off our phones using Unity Remote. 
 
 <p align="center">
 <img width="500" height="208" src="http://jennithe.dev/images/DodgeProgress.png">
@@ -30,17 +30,10 @@ I also learned that Unity has a [Device Simulator](https://docs.unity3d.com/Pack
 
 After learning about these tools, learning to use Unity's tools to scale to the screen and a lot of testing later, we got our mobile games to look like they belonged on a mobile device. 
 
+<p align="center">
 ![](https://media.giphy.com/media/ScIXHCBkOcH0T36bdK/giphy.gif)
+</p>
 
 
 
 
-
-
-
-
-
- 
-
-
-problem - hypothesis - solved it
