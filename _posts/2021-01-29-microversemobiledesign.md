@@ -31,9 +31,8 @@ I also learned that Unity has a [Device Simulator](https://docs.unity3d.com/Pack
 After learning about these tools, learning to use Unity's tools to scale to the screen and a lot of testing later, we got our mobile games to look like they belonged on a mobile device. 
 
 <p align="center">
-![](https://media.giphy.com/media/ScIXHCBkOcH0T36bdK/giphy.gif)
+<img width="500" height="208" src="https://media.giphy.com/media/ScIXHCBkOcH0T36bdK/giphy.gif">
 </p>
-
 
 
 
