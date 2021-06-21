@@ -21,14 +21,14 @@ We then had to decide how and where we were going to do our Kanban Board. We nar
 I proposed we use Github Projects, since it is in the same location as our github repo. It also makes it easy for us if we want to show it to future employers. We all agreed that using Github Projects was the best way to go. I [created the project board](https://github.com/JenniTheDev/Microverse/projects/2), set up the headings and showed everyone how to add cards to the backlog. 
 
 <p align="center">
-<img width="500" height="208" src="http://jennithe.dev/images/microagile1.jpg">
+<img width="500" height="208" src="http://jennithe.dev/images/microagile1.JPG">
 </p>
 
 It was really easy to use, and nice to see how everything was progressing in the project. To keep things clear for our Professor, as each task was completed we added what iteration it was completed on, and who completed it. I would go in once a week and make sure everyone had their cards in the right places. Using Github Projects was a really easy way to keep track of our project's progress. 
 
 <p align="center">
-<img width="500" height="208" src="http://jennithe.dev/images/microagile2.jpg">
+<img width="500" height="208" src="http://jennithe.dev/images/microagile2.JPG">
 </p>
-
+![]()
 
 
