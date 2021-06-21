@@ -1,6 +1,6 @@
 ---
 title: "In Put Again"
-date: 2021-06-16
+date: 2021-06-19
 permalink: /posts/2021/06/inputsystemtwo/
 tags:
   - sandbox
