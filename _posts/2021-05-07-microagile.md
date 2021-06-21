@@ -10,9 +10,11 @@ tags:
  
 ---
 
-Some sort of teaser
+[Microverse's](https://jennithe.dev/portfolio/1-microverse/) task list needed to be organized so our team wasn't all working on the same tasks at the same time. What's the best way to do that?
 
-For our [Microverse](https://jennithe.dev/portfolio/1-microverse/) project, we were given the freedom to choose any tools, methodologies and processes that we wanted. As a group we agreed that using Agile would be the best for our project. Since we had four sprints, we used each iteration to evaluate how each game was going and what adjustments needed to be done to make it more fun to play. We did scrum on discord every day to keep everyone accountable and to adjust for things like midterms and exams. 
+Agile! 
+
+For our [Microverse](https://jennithe.dev/portfolio/1-microverse/) project, we were given the freedom to choose any tools, methodologies and processes that we wanted. As a group we agreed that using Agile methodologies would be the best for our project. Since we had four sprints, we used each iteration to evaluate how each game was going and what adjustments needed to be done to make it more fun to play. We did scrum on discord every day to keep everyone accountable and to adjust for things like midterms and exams. 
 
 We then had to decide how and where we were going to do our Kanban Board. We narrowed it down between Trello and Github Projects. A few team members proposed we use Trello because they were familiar with it. I brought up that it's easy to ignore since you have to go to another website to use it. 
 
