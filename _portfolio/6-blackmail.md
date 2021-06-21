@@ -1,6 +1,6 @@
 ---
 title: "Blackmail"
-excerpt: "Blackmail your friends for fun and profit.<br/><img src='https://media.giphy.com/media/mbXCyddqYrBnx2hTKQ/giphy.gif'>"
+excerpt: "Blackmail your friends for fun and profit.<br/><img src='https://media.giphy.com/media/qQ6J5FOX1OhETG8QuO/giphy.gif'>"
 collection: portfolio
 ---
 
